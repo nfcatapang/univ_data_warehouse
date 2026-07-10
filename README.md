@@ -11,7 +11,7 @@ The pipeline extracts data from the source databases, transforms it with Python 
 ## What the project includes
 
 - `ETL_Pipeline/` - scripts for extract, transform, and load steps
-- `SQL_Scripts/` - simulated source database, warehouse, and analysis queries
+- `SQL_Scripts/` - DDL scripts for data warehouse, and analysis queries
 - `Dash/` - a Dash dashboard that reads from the warehouse
 
 ## What it does
